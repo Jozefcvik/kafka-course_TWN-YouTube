@@ -1,6 +1,6 @@
 # kafka-crash-course
 
-[Kafka Crash Course](https://gitlab.com/twn-youtube/kafka-crash-course)
+[Kafka Course](https://gitlab.com/twn-youtube/kafka-crash-course)
 
 ### Install confluent-kafka dependency
 `pip3 install confluent-kafka`
