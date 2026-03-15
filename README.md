@@ -1,4 +1,4 @@
-# kafka-crash-course
+# kafka-course
 
 [Kafka Course](https://gitlab.com/twn-youtube/kafka-crash-course)
 
